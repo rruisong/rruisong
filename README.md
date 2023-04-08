@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am currently a researcher at the Fraunhofer Institute for Transportation and Infrastructure Systems IVI (Fraunhofer IVI), and pursuing my Ph.D. degree at the Technical University of Munich (TUM).
+
+- 🔭 My primary research interests include federated learning, vehicular communication, cooperative perception, and cooperative intelligent transportation systems (C-ITS).
+- 😄 I am open to any potential collaboration opportunities with you.
+- 📫 Please feel free to get in touch with me at: rui.song[AT]ivi.fraunhofer.de
+
+
 <!--
 **rruisong/rruisong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
